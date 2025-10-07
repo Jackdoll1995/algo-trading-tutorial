@@ -175,6 +175,7 @@ cython_debug/
 
 # credentials
 api_keys.ipynb
+api_keys_testnet.ipynb
 
 # materials
 materials
